@@ -4,7 +4,7 @@ A simple .NET renaming Obfuscator.
 
 # Information
 
-This is a simple .NET obfuscator which can obfuscate any framework executable file and rename the properties within the file to a random letter. Check the images below further down for more information. 
+This is a simple .NET obfuscator which can obfuscate any framework executable file and rename the properties within the file to random letters. Check the images below further down for more information. 
 
 OBS: This obfuscator will not
 protect your application to 100%. There is no way to fully protect a .NET application, because there will always be a way to reverse
